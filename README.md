@@ -8,5 +8,6 @@ I'm especially interested in working with components like the ADS1299 and ESP32 
 * Brainwave-controlled systems
 * EEG signal acquisition and analysis
 
-On a mission to help make full-dive technology a reality.
-![aboutimage](https://github.com/user-attachments/assets/9909a8d1-7acf-40da-8e52-8fae66cdc5f8)
+---
+
+<p align="center"><strong>On a mission to help make full-dive technology a reality.</strong></p>
